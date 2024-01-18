@@ -6,7 +6,7 @@ const Header = ()=>{
   const {state} = useCartContext();
   return (
    <Wrapper>
-     <h4>Header</h4>
+     <h4>Rohel Quadri's Store</h4>
      <ul>
       <li><NavLink to="/" className="link">Home</NavLink></li>
       <li><NavLink to="/products" className="link">Products</NavLink></li> 
